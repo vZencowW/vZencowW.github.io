@@ -1,0 +1,68 @@
+.quest {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+}
+
+.tabl {
+    background-image: url(abstract-technology-background-cloud-computing-technology-concept-hi-tech-cloud-connection-technology-background-vector.jpg);
+}
+
+.bastab {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.a {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.deutable {
+    margin-top: 30px;
+    border: none black;
+}
+
+.previd {
+    margin: 30px;
+}
+
+.deuvid {
+    margin: 30px;
+}
+
+.troivid {
+    margin: 30px;
+}
+
+.titre {
+    width: 1500px;
+    
+}
+
+.tabledeux {
+    background-color: rgb(13, 89, 148);
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
+    padding: 30px;
+    width: 1400px;
+}
+
+.h2 {
+    border-left: 1px solid black;
+}
+
+.maison {
+    width: 50px;
+    height: 50px;
+}
